@@ -172,7 +172,7 @@ export const projects = [
     image: calculatorImg,
     tags: ["HTML", "CSS", "JavaScript"],
     github: "https://github.com/manjeetkumar778/CALCULATOR",
-    live: "https://manjeetkumar778.github.io/CALCULATOR/"
+    live: "calculater-eta-sand.vercel.app"
   },
   {
     id: 3,

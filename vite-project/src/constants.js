@@ -34,7 +34,7 @@ import djangologo from './assets/tech_logo/django.png';
 
 // Education Section Logo's
 import schoolpngpng from './assets/education_logo/school.png';
-import du from "./assets/education_logo/du.jpeg"
+import ignou from "./assets/education_logo/images.png"
 import tack from "./assets/education_logo/tack.jpg"
 
 
@@ -95,18 +95,18 @@ export const SkillsInfo = [
         name: "Node.js",
         logo: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg",
       },
-      {
-        name: "MySQL",
-        logo: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg",
-      },
-      {
-        name: "Django",
-        logo: "https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg"
-      },
-      {
-        name: "Python",
-        logo: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
-      },
+      // {
+      //   name: "MySQL",
+      //   logo: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg",
+      // },
+      // {
+      //   name: "Django",
+      //   logo: "https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg"
+      // },
+      // {
+      //   name: "Python",
+      //   logo: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
+      // },
       {
         name: "React.js",
         logo: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg",
@@ -148,10 +148,10 @@ export const education = [
   },
   {
     id: 2,
-    img: du,
-    school: " School of Open Learning, University of Delhi (D.U SOL)",
+    img: ignou,
+    school: " Indira Gandhi National Open University (IGNOU) ",
     date: "2025 - Present",
-    desc: "Pursuing higher education through DU SOL, gaining knowledge via flexible distance learning while developing strong self-study skills and balancing academic and practical learning."
+    desc: " Focused on building knowledge in Accounting, Business Management, Finance, Economics, Commerce And extra learning Full Stack Developer"
   }
 ];
 
